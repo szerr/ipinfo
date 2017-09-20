@@ -1,0 +1,5 @@
+获取淘宝ip地址信息接口
+
+GetIpInfo(ipaddr)
+
+如果ip传空字符串 返回自己的公网ip信息
